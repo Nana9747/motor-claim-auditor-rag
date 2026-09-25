@@ -1,0 +1,37 @@
+[
+  {
+    "clause_id": "IRDAI_MC_2024_SURVEYOR_APPT",
+    "source_doc": "IRDAI Master Circular on Protection of Policyholders' Interests (June 2024)",
+    "chapter": "Motor Claims Governance & Procedures",
+    "topic_tag": "tat_surveyor_appointment",
+    "statutory_text": "Upon intimation of a motor vehicle loss where an independent surveyor is required, the insurer must assign a licensed surveyor immediately, not exceeding 24 to 48 hours from claim registration. Unreasonable delay in assigning inspection violates standard turnaround guidelines."
+  },
+  {
+    "clause_id": "IRDAI_MC_2024_SURVEYOR_TAT",
+    "source_doc": "IRDAI (Insurance Surveyors and Loss Assessors) Regulations read with Master Circular 2024",
+    "chapter": "Loss Assessment Standards",
+    "topic_tag": "tat_surveyor_report",
+    "statutory_text": "The appointed surveyor shall carry out inspection and submit the final assessment report along with necessary photographs and technical remarks within 30 days of appointment. Any interim extension requires formal intimation to both insurer and claimant with recorded reasons."
+  },
+  {
+    "clause_id": "IRDAI_MC_2024_SETTLEMENT_TAT",
+    "source_doc": "IRDAI Master Circular on Protection of Policyholders' Interests (June 2024)",
+    "chapter": "Turnaround Times for Claim Settlement",
+    "topic_tag": "tat_claim_settlement",
+    "statutory_text": "Upon receipt of the surveyor's final survey report, the insurer must issue the claim settlement offer or rejection communication within 7 working days. Total claim processing for retail motor claims must strictly adhere to the operational limits laid down by the Authority."
+  },
+  {
+    "clause_id": "IRDAI_REG_2024_PENAL_INTEREST",
+    "source_doc": "IRDAI (Protection of Policyholders' Interests, Operations and Allied Matters) Regulations, 2024",
+    "chapter": "Claim Settlement and Interest for Delay",
+    "topic_tag": "tat_penal_interest",
+    "statutory_text": "In the event of a delay in payment of an admissible claim beyond the statutory timelines, the insurer shall be liable to pay penal interest to the claimant at a rate which is 2% above the prevailing Reserve Bank of India (RBI) Bank Rate from the date of delay until the date of actual payment."
+  },
+  {
+    "clause_id": "IRDAI_MC_2024_DEDUCTION_TRANSPARENCY",
+    "source_doc": "IRDAI Master Circular on Protection of Policyholders' Interests (June 2024)",
+    "chapter": "Fair Settlement Practices & Mandate on Deductions",
+    "topic_tag": "claim_deduction_fair_practice",
+    "statutory_text": "Insurers and loss assessors are prohibited from making arbitrary, unsupported, or flat percentage cuts on repair bills or labor charges. Every disallowance or deduction must be backed by a clear technical reason, photographic proof of non-accident or pre-existing damage, or an explicit policy endorsement clause communicated in writing."
+  }
+]

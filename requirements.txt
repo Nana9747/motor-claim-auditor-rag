@@ -1,0 +1,10 @@
+langchain-google-genai
+langchain-core
+pydantic
+python-dotenv
+chromadb
+langchain-community
+pypdf
+streamlit
+
+##rmdir /s /q data\chroma_db

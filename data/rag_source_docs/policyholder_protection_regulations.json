@@ -1,0 +1,30 @@
+[
+  {
+    "clause_id": "IRDAI_PPI_DISCLOSURE_SURVEY",
+    "source_doc": "IRDAI (Protection of Policyholders' Interests) Regulations - Fair Claims Standards",
+    "chapter": "Transparency in Assessment",
+    "topic_tag": "survey_report_sharing_mandate",
+    "statutory_text": "The insurer must provide a full copy of the surveyor's final assessment report along with item-wise allowance, depreciation schedules, and disallowance remarks to the insured upon request or when communicating the final settlement amount. Concealing surveyor calculations from the policyholder violates statutory transparency mandates."
+  },
+  {
+    "clause_id": "IRDAI_PPI_BURDEN_OF_PROOF",
+    "source_doc": "IRDAI Claims Adjudication Standards & Ombudsman Precedents",
+    "chapter": "Evidence Standard for Part Disallowance",
+    "topic_tag": "deduction_burden_of_proof",
+    "statutory_text": "Where a surveyor or claims manager disallows a replacement part or applies partial depreciation on grounds of pre-existing damage, electrical breakdown, or mechanical wear, the burden of proof rests entirely on the insurer. The disallowance must be substantiated with high-resolution photographic evidence and technical inspection notes."
+  },
+  {
+    "clause_id": "IRDAI_PPI_DISCHARGE_VOUCHER",
+    "source_doc": "IRDAI Guidelines on Discharge Vouchers & Judicial Precedents",
+    "chapter": "Protection Against Coercive Settlements",
+    "topic_tag": "settlement_voucher_dispute_rights",
+    "statutory_text": "Execution of an unconditional discharge voucher or settlement release receipt by the policyholder to receive undisputed funds does not deprive them of the statutory right to raise a dispute or lodge a claim grievance regarding unpaid, disallowed, or disputed deduction amounts."
+  },
+  {
+    "clause_id": "IRDAI_PPI_GRIEVANCE_ESCALATION",
+    "source_doc": "IRDAI (Protection of Policyholders' Interests) Regulations",
+    "chapter": "Grievance Redressal Mechanism",
+    "topic_tag": "grievance_cell_escalation_rules",
+    "statutory_text": "Every insurer must operate an internal Grievance Redressal Officer (GRO) framework. Unresolved claim disputes or unfair surveyor deductions not settled within 14 days of representation entitle the claimant to escalate the matter directly to the Bima Bharosa portal or the Insurance Ombudsman having regional jurisdiction."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "clause_id": "IRDAI_SLA_INDEPENDENCE_01",
+    "source_doc": "Insurance Act, 1938 (Section 64UM) read with IRDAI (Insurance Surveyors and Loss Assessors) Regulations",
+    "chapter": "Code of Conduct & Professional Duty",
+    "topic_tag": "surveyor_independent_duty",
+    "statutory_text": "A licensed Insurance Surveyor and Loss Assessor shall maintain absolute professional independence and neutrality. The surveyor is bound by statute to assess accidental loss strictly based on physical evidence and statutory tariff provisions, without yielding to arbitrary deduction targets or non-statutory cost-containment mandates of the insurer."
+  },
+  {
+    "clause_id": "IRDAI_SLA_JUSTIFICATION_02",
+    "source_doc": "IRDAI (Insurance Surveyors and Loss Assessors) Regulations - Duties & Responsibilities",
+    "chapter": "Assessment Methodology & Integrity",
+    "topic_tag": "surveyor_technical_justification",
+    "statutory_text": "The surveyor must provide a clear, itemized technical explanation for any repair estimate deduction, labor hour reduction, or part disallowance. Blanket remarks such as 'disallowed as per insurer norms' or 'market rate capping' without technical calculation or workshop labor schedule references constitute a violation of assessment standards."
+  },
+  {
+    "clause_id": "IRDAI_SLA_PHOTOGRAPHIC_EVIDENCE_03",
+    "source_doc": "IRDAI Surveyor Assessment Guidelines & Claims Standards",
+    "chapter": "Inspection Evidence Mandate",
+    "topic_tag": "surveyor_photo_evidence_mandate",
+    "statutory_text": "Every assessment recommending the replacement or disallowance of high-value assemblies, body panels, or glass items must be accompanied by date-stamped, high-resolution photographs showing the specific impact damage. Disallowance on grounds of pre-existing wear or unrelated accidental impact requires unambiguous photographic proof captured during survey."
+  },
+  {
+    "clause_id": "IRDAI_SLA_ENDORSEMENT_COMPLIANCE_04",
+    "source_doc": "IRDAI Guidelines on Motor Add-on Endorsements & Surveyor Compliance",
+    "chapter": "Contractual Endorsement Compliance",
+    "topic_tag": "surveyor_addon_compliance",
+    "statutory_text": "The surveyor must verify the policy schedule for active add-on covers, including Nil Depreciation, Engine Protector, Return to Invoice, and Consumables. Where a Zero-Depreciation endorsement is active, the surveyor is legally prohibited from applying standard tariff depreciation to plastic, rubber, metal, or glass components."
+  }
+]

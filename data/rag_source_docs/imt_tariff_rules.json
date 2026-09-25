@@ -1,0 +1,51 @@
+[
+  {
+    "clause_id": "IMT_SEC1_RULE3_GLASS",
+    "source_doc": "India Motor Tariff (IMT) Section 1, Rule 3 - Depreciation Schedule",
+    "chapter": "Standard Depreciation on Replacement Parts",
+    "topic_tag": "depreciation_glass",
+    "statutory_text": "Under India Motor Tariff Section 1 Rule 3, depreciation on all glass components replaced during accidental loss is strictly NIL (0%). No wear and tear or age-based depreciation deduction is legally permissible on any glass item under standard or package motor policies."
+  },
+  {
+    "clause_id": "IMT_SEC1_RULE3_RUBBER_PLASTIC",
+    "source_doc": "India Motor Tariff (IMT) Section 1, Rule 3 - Depreciation Schedule",
+    "chapter": "Standard Depreciation on Replacement Parts",
+    "topic_tag": "depreciation_rubber_plastic",
+    "statutory_text": "Under India Motor Tariff Section 1 Rule 3, the rate of depreciation applicable to all rubber, nylon, plastic components, tyres, tubes, batteries, and airbags is strictly fixed at 50%. This deduction applies only under standard package policies where Nil-Depreciation endorsement is absent."
+  },
+  {
+    "clause_id": "IMT_SEC1_RULE3_FIBERGLASS",
+    "source_doc": "India Motor Tariff (IMT) Section 1, Rule 3 - Depreciation Schedule",
+    "chapter": "Standard Depreciation on Replacement Parts",
+    "topic_tag": "depreciation_fiberglass",
+    "statutory_text": "Under India Motor Tariff Section 1 Rule 3, the rate of depreciation applicable to all fiberglass components replaced in accidental repairs is fixed at strictly 30%."
+  },
+  {
+    "clause_id": "IMT_SEC1_RULE3_METAL",
+    "source_doc": "India Motor Tariff (IMT) Section 1, Rule 3 - Metal Depreciation Age Slabs",
+    "chapter": "Standard Depreciation on Replacement Parts",
+    "topic_tag": "depreciation_metal_parts",
+    "statutory_text": "Under India Motor Tariff Section 1 Rule 3, depreciation on metal replacement parts is calculated on vehicle age: Up to 6 months: Nil; 6 months to 1 year: 5%; 1 year to 2 years: 10%; 2 years to 3 years: 15%; 3 years to 4 years: 25%; 4 years to 5 years: 35%; 5 years to 10 years: 40%; Over 10 years: 50%."
+  },
+  {
+    "clause_id": "IMT_COMPULSORY_EXCESS_SLABS",
+    "source_doc": "India Motor Tariff - General Regulations (Compulsory Excess Schedule)",
+    "chapter": "Statutory Deductibles",
+    "topic_tag": "compulsory_excess_slabs",
+    "statutory_text": "Under India Motor Tariff general regulations, standard compulsory deductible payable by the insured per accidental claim is strictly fixed: Two-wheelers: ₹100; Private Cars up to 1500cc engine displacement: ₹1,000; Private Cars exceeding 1500cc engine displacement: ₹2,000. Deducing any excess higher than the statutory slab without an express voluntary excess endorsement opted by the insured is illegal."
+  },
+  {
+    "clause_id": "IMT_ZERO_DEP_ADDON_TERMS",
+    "source_doc": "IRDAI Approved Motor Add-on Wordings - Nil Depreciation Endorsement",
+    "chapter": "Zero Depreciation Add-on Contractual Rights",
+    "topic_tag": "zero_depreciation_waiver",
+    "statutory_text": "Under an active Zero Depreciation / Nil Depreciation add-on cover, the insurer contractually waives all depreciation deductions on allowable replacement parts including plastic, nylon, rubber, fiber, metal, and glass items. The insurer is legally obligated to settle 100% of the cost of approved parts, subject solely to compulsory policy excess."
+  },
+  {
+    "clause_id": "IMT_PAINTING_MATERIAL_DEPRECIATION",
+    "source_doc": "India Motor Tariff Section 1, Rule 3 - Painting Workmanship & Materials",
+    "chapter": "Depreciation on Paintwork",
+    "topic_tag": "painting_charges_depreciation",
+    "statutory_text": "Depreciation on painting charges applies only to material costs. Where workshop billing is consolidated and does not bifurcate paint material and labor, paint material is legally pegged at 25% of the total painting charge, and depreciation is applied strictly to that material component."
+  }
+]

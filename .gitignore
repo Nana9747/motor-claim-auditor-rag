@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Secrets (Crucial: never push API keys)
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# ChromaDB local index cache & temp uploads
+data/chroma_db/
+data/uploaded_claim.pdf
+
+# OS/IDE metadata
+.vscode/
+.idea/
+.DS_Store
