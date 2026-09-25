@@ -1,6 +1,7 @@
 langchain-google-genai
 langchain-core
 langchain-groq
+langchain-chroma
 pydantic
 python-dotenv
 chromadb
