@@ -1,10 +1,13 @@
 langchain-google-genai
 langchain-core
+langchain-groq
 pydantic
 python-dotenv
 chromadb
 langchain-community
 pypdf
 streamlit
+langchain
+sentence-transformers
 
 ##rmdir /s /q data\chroma_db
