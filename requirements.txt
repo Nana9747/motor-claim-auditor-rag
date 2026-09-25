@@ -10,5 +10,6 @@ pypdf
 streamlit
 langchain
 sentence-transformers
+fastembed
 
 ##rmdir /s /q data\chroma_db
